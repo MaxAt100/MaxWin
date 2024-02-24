@@ -1,4 +1,4 @@
 @echo off
-cd C:\MaxWin
+cd C:\MaxWin\exe
 start.exe
 sound.exe
