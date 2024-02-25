@@ -1,3 +1,3 @@
 @echo off
-start.exe
-sound.exe
+start C:\MaxWin\MaxWin-main\exe\effect.exe
+start C:\MaxWin\MaxWin-main\exe\sound.exe
